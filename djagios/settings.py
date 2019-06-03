@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'data_collector',
+    'django.contrib.humanize',
 ]
 
 MIDDLEWARE_CLASSES = [
